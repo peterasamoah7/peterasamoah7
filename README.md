@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peter Asamoah
-- 👀 I’m interested in .NET Development, Python
-- 🌱 I’m currently learning Tensorflow, Machine Learning
+- 👀 I’m interested in .NET Development, Python, Artificial Artificial Intelligence and Desktop & Web Development
+- 🌱 I’m currently learning Tensorflow and Machine Learning
 
 <!---
 peterasamoah7/peterasamoah7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
