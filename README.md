@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Peter Asamoah
-- 👀 I’m interested in .NET Development, Python, Artificial Artificial Intelligence and Desktop & Web Development
+- 👀 I’m interested in .NET Development, Python, Artificial Intelligence and Desktop & Web Development
 - 🌱 I’m currently learning Tensorflow and Machine Learning
 
 <!---
